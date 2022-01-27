@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^12.5.3",
+    "new-scratch3-api": "^3.0.4"
+  }
+}
